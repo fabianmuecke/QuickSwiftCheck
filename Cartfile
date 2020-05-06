@@ -1,6 +1,6 @@
 # Cartfile
 # Copyright © 2019 Adrian Kashivskyy. All rights reserved.
 
-github "Quick/Nimble" ~> 8.0
-github "Quick/Quick" ~> 2.0
+github "mRs-/Nimble" "Swift5.3"
+github "mRs-/Quick" "Xcode12"
 github "typelift/SwiftCheck" ~> 0.12
